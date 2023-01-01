@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+### 📚Tech Stack📚
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+
 <!--
 **kimjieunn/kimjieunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
