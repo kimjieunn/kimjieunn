@@ -1,10 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20JiEun&fontAlign=82&fontAlignY=42&fontSize=40&rotate=19)
 
-### Hi there 👋
 
-### 📚Tech Stack📚
+## Skills
+
+### 📚 Platforms & Languages
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a> 
+
+### 🛠 Tools
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> 
 
 <!--
 **kimjieunn/kimjieunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
