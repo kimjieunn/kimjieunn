@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20JiEun&fontalign=80&fontSize=40&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20JiEun&fontAlign=70&fontAlignY=20&fontSize=40&rotate=20)
 
 ### Hi there 👋
 
