@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=yellow&height=300&section=header&text=Kim JiEun%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=yellow&height=300&section=header&text=KimJiEun%20&fontSize=90)
 
 ### Hi there 👋
 
