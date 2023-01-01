@@ -3,7 +3,8 @@
 ### Hi there 👋
 
 ### 📚Tech Stack📚
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a> 
 
 <!--
 **kimjieunn/kimjieunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
