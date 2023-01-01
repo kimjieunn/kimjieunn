@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=f8d36d&height=300&section=header&text=Hello%20I'm%20JiEun&fontAlign=82&fontAlignY=42&fontSize=40&rotate=19)
-
+<!-- 
+#### 📊 안녕하세요. 데이터 분석가를 꿈꾸는 김지은입니다. -->
 
 ## Skills
 
