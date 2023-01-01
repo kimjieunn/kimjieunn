@@ -15,6 +15,10 @@
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a> 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjieunn&layout=compact)](https://github.com/kimjieunn/github-readme-stats)
+
+
 <!--
 **kimjieunn/kimjieunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
