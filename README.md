@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=f8d36d&height=300&section=header&text=Hello%20I'm%20JiEun&fontAlign=82&fontAlignY=42&fontSize=40&rotate=19)
 <!-- 
-#### 📊 안녕하세요. 데이터 분석가를 꿈꾸는 김지은입니다.. -->
+#### 📊 안녕하세요. 데이터 분석가를 꿈꾸는 김지은입니다. -->
 
 ## Skills
 
 ### 📚 Platforms & Languages
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/SAS-357CBF?style=flat/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/SPSS-809BC6?style=flat/></a> 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a> 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a> 
