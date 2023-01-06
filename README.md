@@ -7,6 +7,7 @@
 ### 📚 Platforms & Languages
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a> 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/></a> 
 <img alt="SAS" src="https://img.shields.io/badge/-SAS-E10098?style=flat&logo=SAS"/>
 <img alt="SPSS" src="https://img.shields.io/badge/SPSS-%234B275F.svg?&style=flat&logo=SPSS&logoColor=white"/>
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a> 
